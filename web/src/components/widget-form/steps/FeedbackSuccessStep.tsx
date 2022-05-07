@@ -1,4 +1,4 @@
-import { CloseButton } from "../../close-button";
+import { CloseButton } from "../../CloseButton";
 
 import checkImage from '../../../assets/check.svg'
 
