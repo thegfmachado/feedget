@@ -1,6 +1,6 @@
 # Feedget 🔭
 
-Feedback widget to use on any site or mobile application using React.
+Feedback widget to use on any site or mobile application using ReactJS or ReactNative.
 
 ## Live Demo
 
