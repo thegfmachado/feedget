@@ -1,4 +1,4 @@
-# Feedget
+# Feedget 🔭
 
 Feedback widget to use on any site or mobile application using React.
 
